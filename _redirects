@@ -1,0 +1,7 @@
+# Redirect Netlify subdomain to primary domain
+https://r-gecko-embedded-org.netlify.app/*  https://urls.jp/:splat 301!
+
+# Short urls
+/qa  https://github.com/webdino/gecko-embedded/wiki/QA
+/bench  https://github.com/webdino/gecko-embedded/wiki/Benchmark
+/sample  https://github.com/webdino/gecko-embedded/wiki/Sample-Contents
