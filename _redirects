@@ -5,9 +5,10 @@ https://r-gecko-embedded-org.netlify.app/*  https://urls.jp/:splat 301!
 /  https://github.com/webdino/gecko-embedded/
 
 # Short urls
+/github  https://github.com/webdino/gecko-embedded
+/wiki  https://github.com/webdino/gecko-embedded/wiki
 /hackmd  https://hackmd.io/team/gecko-embedded
 /amethyst  /qa
 /qa  https://github.com/webdino/gecko-embedded/wiki/QA
 /bench  https://github.com/webdino/gecko-embedded/wiki/Benchmark
 /sample  https://github.com/webdino/gecko-embedded/wiki/Sample-Contents
-/wiki  https://github.com/webdino/gecko-embedded/wiki
